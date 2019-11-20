@@ -1,0 +1,6 @@
+C:\Users\Fanatique\Source\Repos\AlexAbbaz\Mini_Project_CSharp\Mini_Project_CSharp\dotNet5780_01_9054\Part2\bin\Debug\Part2.exe.config
+C:\Users\Fanatique\Source\Repos\AlexAbbaz\Mini_Project_CSharp\Mini_Project_CSharp\dotNet5780_01_9054\Part2\bin\Debug\Part2.exe
+C:\Users\Fanatique\Source\Repos\AlexAbbaz\Mini_Project_CSharp\Mini_Project_CSharp\dotNet5780_01_9054\Part2\bin\Debug\Part2.pdb
+C:\Users\Fanatique\Source\Repos\AlexAbbaz\Mini_Project_CSharp\Mini_Project_CSharp\dotNet5780_01_9054\Part2\obj\Debug\Part2.csprojAssemblyReference.cache
+C:\Users\Fanatique\Source\Repos\AlexAbbaz\Mini_Project_CSharp\Mini_Project_CSharp\dotNet5780_01_9054\Part2\obj\Debug\Part2.exe
+C:\Users\Fanatique\Source\Repos\AlexAbbaz\Mini_Project_CSharp\Mini_Project_CSharp\dotNet5780_01_9054\Part2\obj\Debug\Part2.pdb

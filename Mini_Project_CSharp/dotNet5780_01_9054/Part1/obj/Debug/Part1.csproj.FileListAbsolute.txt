@@ -1,0 +1,7 @@
+C:\Users\ETELBAZ\source\repos\dotNet5780_01_9054\Part1\bin\Debug\Part1.exe.config
+C:\Users\ETELBAZ\source\repos\dotNet5780_01_9054\Part1\bin\Debug\Part1.exe
+C:\Users\ETELBAZ\source\repos\dotNet5780_01_9054\Part1\bin\Debug\Part1.pdb
+C:\Users\ETELBAZ\source\repos\dotNet5780_01_9054\Part1\obj\Debug\Part1.csprojAssemblyReference.cache
+C:\Users\ETELBAZ\source\repos\dotNet5780_01_9054\Part1\obj\Debug\Part1.csproj.CoreCompileInputs.cache
+C:\Users\ETELBAZ\source\repos\dotNet5780_01_9054\Part1\obj\Debug\Part1.exe
+C:\Users\ETELBAZ\source\repos\dotNet5780_01_9054\Part1\obj\Debug\Part1.pdb
